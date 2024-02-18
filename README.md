@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmedmandour1
+- 👋 Hi, I’m @EGPHARO
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-ahmedmandour1/ahmedmandour1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EGPHARO/EGPHARO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
